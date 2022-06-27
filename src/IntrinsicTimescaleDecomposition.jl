@@ -1,5 +1,5 @@
 module IntrinsicTimescaleDecomposition
 
-# Write your package code here.
-
+include("core.jl")
+    export itd, extract_baseline!
 end

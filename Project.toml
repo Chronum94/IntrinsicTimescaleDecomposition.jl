@@ -1,0 +1,13 @@
+name = "IntrinsicTimescaleDecomposition"
+uuid = "80975595-f7e0-4ff1-b2e1-94796ba34b1d"
+authors = ["Anubhab Haldar"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
